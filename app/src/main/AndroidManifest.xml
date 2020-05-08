@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".ui.activity.DialogActivity">
+        <activity android:name=".ui.activity.IntentCameraActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

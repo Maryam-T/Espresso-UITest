@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EspressoUITest</string>
+    <string name="error">Some error happened!</string>
+</resources>

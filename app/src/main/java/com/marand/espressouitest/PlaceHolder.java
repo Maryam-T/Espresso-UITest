@@ -1,4 +1,4 @@
 package com.marand.espressouitest;
 
-public class Placeholder {
+public class PlaceHolder {
 }
